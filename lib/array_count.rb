@@ -16,6 +16,6 @@ def count_empty_strings(array)
     string == ""
   end
 
-  
+
 end
 count_empty_strings(array_2)
